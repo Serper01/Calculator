@@ -5,7 +5,7 @@
 //  Created by Serper Kurmanbek on 22.11.2023.
 //
 // Какой-нибудь комментарий
-// Коммит тест
+// Коммит
 import UIKit
 
 class ViewController: UIViewController {
